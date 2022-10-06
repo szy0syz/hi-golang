@@ -114,10 +114,18 @@ type rune = int32
 
 #### 基础语法——方法声明(推荐写法)
 
+<img width="413" alt="image" src="https://user-images.githubusercontent.com/10555820/194209634-a0866776-1ff9-4f95-906a-aa5ed4b0a74d.png">
+
 - 参数列表含有参数名
 - 返回值不具有返回值名
 
+#### 基础语法——方法声明(看看就好)
+
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/10555820/194209729-d805da1f-00fa-4b48-8072-ad3ac5bfd6af.png">
+
 #### 基础语法——方法调用
+
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/10555820/194209022-9927be73-d8d8-45ed-a185-a29d85542949.png">
 
 - 使用_忽略返回值
 

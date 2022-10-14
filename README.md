@@ -5,6 +5,8 @@
 - Google资深工程师深度讲解Go语言
 - Go高级工程师实战营二期(GoCN)
 - Go进阶训练营第5期
+- Working with Concurrency in Go
+- Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
 
 ## Go进阶训练营第5期
 

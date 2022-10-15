@@ -19,6 +19,23 @@ package main
 
 import "fmt"
 
-func main() {
+//* Write a function that accepts a person's name as a function
+//  parameter and displays a greeting to that person.
+//* Write a function that returns any message, and call it from within
+//  fmt.Println()
+//* Write a function to add 3 numbers together, supplied as arguments, and
+//  return the answer
 
+//* Write a function that returns any number
+func twoTwos() (int, int) {
+	return 2, 2
+}
+
+//* Write a function that returns any two numbers
+//* Add three numbers together using any combination of the existing functions.
+//  * Print the result
+//* Call every function at least once
+
+func main() {
+	fmt.Println(twoTwos())
 }

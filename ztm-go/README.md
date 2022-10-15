@@ -93,3 +93,21 @@ Recap
 - Variables names can only be used once per scope
 - Variables declared, but not assigned to, will have a default value
 - "Comma ok" idiom allows you to reuse the second variable
+
+### Functions
+
+About Functions
+
+- Most basic building block of Go programs
+- Allows functionality to be isolated, which make programs easier to:
+  - Test, debug, extend, modify, read, write, document
+- Functions are simple: they take data as input and return data as output
+  - Input and output data is optional
+
+TODO creating functions
+
+- Functions encapsulate program functionality which leads to more maintainable code
+- Functions have parameters which define the input data
+- Functions are used by calling the function and supplying arguments
+- Functions can return multiple values
+  - An underscore can be used to ignore a return value

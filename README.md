@@ -5,15 +5,20 @@
 - Google资深工程师深度讲解Go语言
 - Go高级工程师实战营二期(GoCN)
 - Go进阶训练营第5期
+  - 说实话，课程有点粗糙 
 - ZTM - Go Programming
   - 感觉备课细节💯
 - Working with Concurrency in Go
+  - 并发高性能的课暂时先不看
 - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
 - Advanced patterns for building APIs and web applications in Go
   - 细节慢慢的书📚
 
+<img width="989" alt="image" src="https://user-images.githubusercontent.com/10555820/196014564-8aead27c-08c3-4547-97c0-d39b36daf211.png">
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/10555820/196014572-53b8f8dd-c2a8-4490-89f3-0f124279eea8.png">
 <img width="1316" alt="image" src="https://user-images.githubusercontent.com/10555820/196014506-0fb88fa4-d0a4-4dd7-b82d-fac03dee044c.png">
-
+<img width="990" alt="image" src="https://user-images.githubusercontent.com/10555820/196014593-9b7878cc-a3bf-4834-b942-0bff62fddc4f.png">
+<img width="996" alt="image" src="https://user-images.githubusercontent.com/10555820/196014615-568d2a01-a1c2-4d9b-b0a3-09821a20d99e.png">
 
 ## Go进阶训练营第5期
 

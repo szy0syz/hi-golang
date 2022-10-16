@@ -111,3 +111,48 @@ TODO creating functions
 - Functions are used by calling the function and supplying arguments
 - Functions can return multiple values
   - An underscore can be used to ignore a return value
+
+### Operators
+
+- Operators are used to perform calculations and comparisons
+  - Less than `<`
+- They work on operands
+- Logic
+  - `&&` And
+  - `||` Or
+  - `!` Not
+- Logic operators can ensure multiple criteria are met
+- Always returns a boolean
+  - `authorized` && `authenticated`
+  - `red` || `blue`
+  - `!heavy`
+
+### Flow Control
+
+- Program code executes line-by-line
+- Flow control is a way to interrupt this process
+  - Different lines of code can be executed based on conditions
+- Conditions are programmer-defined and can be as many as needed
+
+```go
+if temperature("freezer") > 0 {
+  // display alert
+}
+
+if i := 5; i < 10 {}
+
+if rank := getUserRank(); rank == "admin" {
+
+} else if rank == "manager" {
+
+} else {
+
+}
+```
+
+Early Return
+
+- Use "early return" to stop processing within a function as soon as possible
+  - Max performance
+  - All data needed for the function is ready after error checking
+    - from "Clean Code"

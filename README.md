@@ -12,7 +12,7 @@
 - Working with Concurrency in Go
   - 并发高性能的课暂时先不看
 - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
-- Advanced patterns for building APIs and web applications in Go
+- Let's Go Further! Advanced patterns for building APIs and web applications in Go
   - 细节慢慢的书📚
 
 <img width="989" alt="image" src="https://user-images.githubusercontent.com/10555820/196014564-8aead27c-08c3-4547-97c0-d39b36daf211.png">

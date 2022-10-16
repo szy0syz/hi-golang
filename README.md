@@ -8,6 +8,7 @@
   - 说实话，课程有点粗糙 
 - ZTM - Go Programming
   - 感觉备课细节💯
+  - 真不愧是"from an industry expert"👍
 - Working with Concurrency in Go
   - 并发高性能的课暂时先不看
 - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]

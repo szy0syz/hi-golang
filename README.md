@@ -6,8 +6,14 @@
 - Go高级工程师实战营二期(GoCN)
 - Go进阶训练营第5期
 - ZTM - Go Programming
+  - 感觉备课细节💯
 - Working with Concurrency in Go
 - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
+- Advanced patterns for building APIs and web applications in Go
+  - 细节慢慢的书📚
+
+<img width="1316" alt="image" src="https://user-images.githubusercontent.com/10555820/196014506-0fb88fa4-d0a4-4dd7-b82d-fac03dee044c.png">
+
 
 ## Go进阶训练营第5期
 

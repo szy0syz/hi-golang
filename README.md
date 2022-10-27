@@ -1,5 +1,9 @@
 # hi-golang
 
+## Demos
+
+- P01 - [Golang Tutorial: upload bulk files to S3 bucket aws golang][1]
+
 ## Courses
 
 - Google资深工程师深度讲解Go语言
@@ -149,3 +153,5 @@ type rune = int32
 - `golang` 支持多返回值，这是一个很大的不同点
 - `golang` 方法的作用域和变量作用域一样，通过大小写控制
 - `golang` 的返回值是可以有名字的，可以通过给予名字让调用方清楚知道你返回的是什么
+
+[1]: https://programmingeeksclub.com/golang-tutorial-upload-bulk-files-to-s3-bucket-aws-golang/
